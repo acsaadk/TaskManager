@@ -1,5 +1,7 @@
 # Docker + Lumen with Nginx and MySQL
 
+The source code of the project can be found in `/images/php/app/`.
+
 ### Configuration
 
 To change configuration values, look in the `docker-compose.yml` file and change the `php` container's environment variables. These directly correlate to the Lumen environment variables.
